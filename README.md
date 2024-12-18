@@ -9,4 +9,4 @@ Small interface project for a generic clothing store. Developed with pure HTML a
 https://frontendstoreleonginel.netlify.app
 
 ## Capturas de Pantalla
-![Captura de la aplicación](Img/TiendaOnline.jpg)
+![Captura de la aplicación](img/TiendaOnline.jpg)
