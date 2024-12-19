@@ -1,5 +1,5 @@
 # Tienda-Online-Interface
-Small interface project for a generic clothing store. Developed with pure HTML and CSS
+Pequeño proyecto de interfaz para una tienda de ropa genérica. Desarrollado con HTML y CSS puro
 
 ## Tecnologías utilizadas
 - **HTML5**: Estructura del contenido
